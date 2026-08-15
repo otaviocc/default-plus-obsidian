@@ -4,6 +4,8 @@ A dark color theme for Obsidian, originally created as an Xcode Font & Color The
 
 Part of the [Default+ theme family](https://github.com/otaviocc/default-plus).
 
+![](screenshot.png)
+
 ## Installation
 
 ### Community Themes (recommended)
