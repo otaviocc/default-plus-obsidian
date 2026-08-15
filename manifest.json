@@ -1,8 +1,9 @@
 {
   "name": "Default+",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "minAppVersion": "0.16.0",
-  "author": "otaviocc",
-  "authorUrl": "https://otavio.cc"
-  "screenshot": "screenshot.png"
+  "author": "Otavio Cordeiro",
+  "authorUrl": "https://otavio.cc",
+  "screenshot": "screenshot.png",
+  "fundingUrl": "https://ko-fi.com/otaviocc"
 }
